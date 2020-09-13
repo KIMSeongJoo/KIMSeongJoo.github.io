@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Seongjoo KIM"
 description              : "Study Something, Write here, 공부한 뒤 보관하는 곳"
-url                      :
+url                      : ""
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Seongjoo KIM"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "眞엔지니어가 되고 싶은 엔지니어"
+  bio              : "**眞엔지니어**가 되고 싶은 엔지니어"
   location         : "TOKYO"
   email            : "rrhh23411@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:rrhh23411@gmail.com"
+      url: "mailto:rrhh23411@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
