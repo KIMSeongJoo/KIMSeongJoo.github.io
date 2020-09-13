@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Seongjoo KIM"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "**眞엔지니어**가 되고 싶은 엔지니어"
+  bio              : "뭐라도 남겨보자"
   location         : "TOKYO"
   email            : "rrhh23411@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:rrhh23411@gmail.com"
+      # url: "mailto:rrhh23411@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
