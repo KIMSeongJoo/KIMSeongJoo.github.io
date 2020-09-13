@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 title                    : "기록 보관소"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Version 2.0"
 name                     : "Seongjoo KIM"
 description              : "Study Something, Write here, 공부한 뒤 보관하는 곳"
 url                      : ""
