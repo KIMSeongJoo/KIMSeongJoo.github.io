@@ -1,5 +1,5 @@
 ---
-title: Readable Code를 읽으며"
+title: Readable Code를 읽으며
 date: 2020-09-12
 categories: readable code
 ---
